@@ -1,4 +1,5 @@
-Hi there, I am Yi-Chen Lin.
+Hi there, 
+I am Yi-Chen Lin.
 About me:
 I am master student at Purdue University
 I am interested in Computer Vision, Embedded systems,Deep Learning   

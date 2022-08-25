@@ -1,4 +1,4 @@
-<h3>Hi there, I am Yi-Chen Lin.</h3>
+<h3>Hi all, I am Yi-Chen Lin.</h3>
 <h4>About me:</h4>
 <ul>
 	<li>I am master student at Purdue University</li>

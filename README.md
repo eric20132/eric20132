@@ -3,6 +3,5 @@
 <ul>
 	<li>I am a Purdue student in Electrical and Computer Engineering</li>
 	<li>I am interested in Computer Vision, Embedded System, Deep Learning</li>
-	<li>I mainly use Python for my projects</li>
 </ul>
 

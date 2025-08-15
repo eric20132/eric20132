@@ -7,9 +7,9 @@
 <li>I enjoy working on projects that bridge software engineering with real-world industrial applications.</li>
 
 <h4>Tech Stack:</h4>
-Languages: Python, Java, JavaScript, SQL, C/C++, R
-Frameworks & Tools: Django, FastAPI, Docker, Kubernetes, Git, MSSQL, PyTorch, TensorFlow, LangChain
-Interests: Machine Learning, Data Science, System Optimization, Industrial IoT
+<li>Languages: Python, Java, JavaScript, SQL, C/C++, R</li>
+<li>Frameworks & Tools: Django, FastAPI, Docker, Kubernetes, Git, MSSQL, PyTorch, TensorFlow, LangChain</li>
+<li>Interests: Machine Learning, Data Science, System Optimization, Industrial IoT</li>
 
 <h4>Current Focus:</h4>
 <li>Building robust backend systems for chemical process optimization.</li>

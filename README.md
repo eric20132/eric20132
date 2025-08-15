@@ -1,4 +1,4 @@
-<h3>Hi all, I am Yi-Chen (Ethan) Lin 👋</h3>h3>
+<h3>Hi all, I am Yi-Chen (Ethan) Lin 👋</h3>
 <h4>About Me:</h4>
 <li>I am a Software Engineer at Formosa Plastics Corporation, holding a Master's degree in Electrical and Computer Engineering from Purdue University.</li>
 <li>I specialize in full-stack development, machine learning, and DevOps. </li>

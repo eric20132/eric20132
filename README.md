@@ -9,7 +9,7 @@
 <h4>Tech Stack:</h4>
 <li>Languages: Python, Java, JavaScript, SQL, C/C++, R</li>
 <li>Frameworks & Tools: Django, FastAPI, Docker, Kubernetes, Git, MSSQL, PyTorch, TensorFlow, LangChain</li>
-<li>Interests: Machine Learning, Data Science, System Optimization, Industrial IoT</li>
+<li>Interests: Machine Learning, Data Science, System Optimization</li>
 
 <h4>Current Focus:</h4>
 <li>Building robust backend systems for chemical process optimization.</li>

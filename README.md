@@ -6,12 +6,12 @@
 <li>I am passionate about Natural Language Processing, AI agent development, and data analysis.</li>
 <li>I enjoy working on projects that bridge software engineering with real-world industrial applications.</li>
 
-##Tech Stack:
+<h4>Tech Stack:</h4>
 Languages: Python, Java, JavaScript, SQL, C/C++, R
 Frameworks & Tools: Django, FastAPI, Docker, Kubernetes, Git, MSSQL, PyTorch, TensorFlow, LangChain
 Interests: Machine Learning, Data Science, System Optimization, Industrial IoT
 
-##Current Focus:
+<h4>Current Focus:</h4>
 <li>Building robust backend systems for chemical process optimization.</li>
 <li>Developing machine learning-based anomaly detection systems.</li>
 <li>Working on AI agents tailored for specific tasks.</li>

@@ -1,11 +1,11 @@
 ### Hi all, I'm Yi-Chen (Ethan) Lin 👋
 
 #### About Me:
-- I am an AI / Machine Learning Engineer with a Master's degree in Electrical and Computer Engineering from Purdue University.
-- I specialize in **Agentic AI, Large Language Models (LLMs), RAG, MLOps, and full-stack AI application development**.
-- I have experience building and deploying production-oriented machine learning systems for anomaly detection, process optimization, and intelligent knowledge retrieval.
-- I am passionate about developing autonomous AI agents that integrate reasoning, tool calling, retrieval, and workflow automation.
-- I enjoy bridging AI research and software engineering to build scalable, reliable, and practical AI solutions.
+- I am an **AI / Machine Learning Engineer** with industry experience in developing and deploying production-grade AI solutions, holding a Master's degree in Electrical and Computer Engineering from Purdue University.
+- I have hands-on experience building **machine learning systems for industrial process optimization, anomaly detection, and intelligent knowledge retrieval** in the manufacturing industry.
+- I specialize in **Agentic AI, Large Language Models (LLMs), RAG, MLOps, and backend development**, with a focus on building scalable and reliable AI applications.
+- My professional experience spans the end-to-end ML lifecycle, including data engineering, model development, API integration, containerized deployment, and production monitoring.
+- I am passionate about building intelligent AI agents that combine reasoning, tool calling, retrieval, and workflow automation to solve real-world problems.
 
 #### Tech Stack:
 - **Languages:** Python, SQL, JavaScript, Java, C#, C++
@@ -18,6 +18,6 @@
 
 #### Current Focus:
 - **Agentic AI:** Building autonomous AI agents with tool calling, multi-step reasoning, and workflow orchestration.
-- **Retrieval-Augmented Generation:** Developing advanced RAG pipelines with hybrid retrieval, semantic search, and reranking.
-- **AI Evaluation & Observability:** Evaluating agent performance through benchmark testing, tracing, and failure analysis.
-- **End-to-End AI Applications:** Building scalable AI-powered applications with backend APIs, interactive dashboards, and containerized deployment.
+- **Advanced RAG:** Developing retrieval pipelines with hybrid search, reranking, and context-aware generation.
+- **Agent Evaluation:** Benchmarking AI agents and analyzing hallucinations, tool execution failures, and reasoning performance.
+- **End-to-End AI Systems:** Building AI applications with scalable backend services, interactive dashboards, and containerized deployment.

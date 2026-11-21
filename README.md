@@ -1,17 +1,23 @@
-<h3>Hi all, I am Yi-Chen (Ethan) Lin 👋</h3>
-<h4>About Me:</h4>
-<li>I am an Machine Learning Engineer at Formosa Plastics Corporation, holding a Master's degree in Electrical and Computer Engineering from Purdue University.</li>
-<li>I specialize in MLOps, full-stack development, machine learning and DevOps. </li>
-<li>I have experience migrating legacy systems to modern web applications and building scalable data pipelines.</li>
-<li>I am passionate about Natural Language Processing, AI agent development, and data analysis.</li>
-<li>I enjoy working on projects that bridge software engineering with real-world industrial applications.</li>
+### Hi all, I'm Yi-Chen (Ethan) Lin 👋
 
-<h4>Tech Stack:</h4>
-<li>Languages: Python, Java, JavaScript, SQL, C#, C++, R</li>
-<li>Frameworks & Tools: Azure, .NET, Django, FastAPI, Docker, Kubernetes, Git, MSSQL, PyTorch, TensorFlow, LangChain</li>
-<li>Interests: Machine Learning, Data Science, System Optimization</li>
+#### About Me:
+- I am an AI / Machine Learning Engineer with a Master's degree in Electrical and Computer Engineering from Purdue University.
+- I specialize in **Agentic AI, Large Language Models (LLMs), RAG, MLOps, and full-stack AI application development**.
+- I have experience building and deploying production-oriented machine learning systems for anomaly detection, process optimization, and intelligent knowledge retrieval.
+- I am passionate about developing autonomous AI agents that integrate reasoning, tool calling, retrieval, and workflow automation.
+- I enjoy bridging AI research and software engineering to build scalable, reliable, and practical AI solutions.
 
-<h4>Current Focus:</h4>
-<li>Developing machine learning-based anomaly detection systems.</li>
-<li>Working on AI agents tailored for specific tasks.</li>
-<li>Building robust backend systems for chemical process optimization.</li>
+#### Tech Stack:
+- **Languages:** Python, SQL, JavaScript, Java, C#, C++
+- **AI & Machine Learning:** PyTorch, TensorFlow, Scikit-learn, LLMs, NLP
+- **Agentic AI & RAG:** LangGraph, LangChain, Qdrant, Hybrid Search, Reranking
+- **Backend & APIs:** FastAPI, Django, REST APIs, Next.js
+- **MLOps & DevOps:** Docker, Kubernetes, MLflow, Git, CI/CD, Azure
+- **Observability & Evaluation:** LangSmith, Arize Phoenix, Agent Benchmarking
+- **Databases & Search:** PostgreSQL, MSSQL, Elasticsearch, Vector Databases
+
+#### Current Focus:
+- **Agentic AI:** Building autonomous AI agents with tool calling, multi-step reasoning, and workflow orchestration.
+- **Retrieval-Augmented Generation:** Developing advanced RAG pipelines with hybrid retrieval, semantic search, and reranking.
+- **AI Evaluation & Observability:** Evaluating agent performance through benchmark testing, tracing, and failure analysis.
+- **End-to-End AI Applications:** Building scalable AI-powered applications with backend APIs, interactive dashboards, and containerized deployment.
